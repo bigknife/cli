@@ -1,0 +1,15 @@
+*
+!/**/
+!*.scala
+!*.sbt
+!*.txt
+!*.md
+!*.xml
+!*.properties
+!*.sh
+!.gitignore
+/target/
+/project/**
+!/project/*.scala
+!/project/*.properties
+!/project/*.sbt
